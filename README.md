@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... C#, Python, Javascript, ShellScripting, Typescript, if it has to do with zero's and one's or hexadecimal, count me in. 
 - 🌱 I’m currently learning ...  C#
 - 💞️ I’m looking to collaborate on ... anything - linux  projects, or android apps.
-- 📫 How to reach me ...dvnnymiracle@gmail.com
+- 📫 How to reach me ...artificialprojections@proton.me
 - 😄 Pronouns: ...them
 - ⚡ Fun fact: ...it's all a simulation.
 
